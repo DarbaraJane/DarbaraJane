@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## - 😄 Pronouns: She\Her
+## - 🔭 I’m currently working on setting up a web server 
+## - 🌱 I’m currently learning Git and Linux
 <!--
 **DarbaraJane/DarbaraJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
