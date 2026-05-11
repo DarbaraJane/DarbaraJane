@@ -1,7 +1,9 @@
 ## Hi there 👋
 ## - 😄 Pronouns: She\Her
-## - 🔭 I’m currently working on setting up a web server 
-## - 🌱 I’m currently learning Git and Linux
+## - 🔭 I’m currently working on expanding my docker stack and making useful scripts to standardize deployments
+## - 🌱 I’m currently learning Git, Go, and Python!
+## - ⚡ Fun fact: My favorite color is purple!
+
 <!--
 **DarbaraJane/DarbaraJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
